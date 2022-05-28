@@ -58,6 +58,7 @@ debugpy @ file:///C:/ci/debugpy_1629222823515/work
 decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
+distlib==0.3.4
 distributed @ file:///C:/ci/distributed_1635950227219/work
 docutils @ file:///C:/ci/docutils_1620828194019/work
 entrypoints==0.3
@@ -78,6 +79,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 greenlet @ file:///C:/ci/greenlet_1628888257991/work
 grpcio==1.44.0
+gunicorn==20.1.0
 h5py==2.10.0
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews==1.14.8
@@ -175,6 +177,7 @@ pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
 pkginfo==1.7.1
+platformdirs==2.5.2
 plotly @ file:///Users/nicolas/opt/miniconda3/envs/env/conda-bld/plotly_1649173020953/work/packages/python/plotly/dist/plotly-5.7.0.tar.gz
 pluggy @ file:///C:/ci/pluggy_1615976530170/work
 ply==3.11
@@ -289,6 +292,7 @@ ujson @ file:///C:/ci/ujson_1611244941645/work
 unicodecsv==0.14.1
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 urllib3==1.26.7
+virtualenv==20.14.1
 watchdog @ file:///C:/ci/watchdog_1624955113514/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
