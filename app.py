@@ -12,7 +12,7 @@ def index():
     return render_template("index.html")
 
 
-@app.route("/predict", methods=["GET", "POST"])
+@app.route("/predict/", methods=["GET", "POST"])
 def predict():
     output = "Your value here!"
     #If you have the user submit a form
