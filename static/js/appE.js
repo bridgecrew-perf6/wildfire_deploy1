@@ -8,11 +8,11 @@ function make_pred() {
 
 
 
-    console.log("state",state)  
-    console.log("discovery_month",discovery_month)
-    console.log("Temp_pre_7",Temp_pre_7)
-    console.log("Wind_pre_7",Wind_pre_7)
-    console.log("Hum_pre_7",Hum_pre_7)
+    // console.log("state",state)  
+    // console.log("discovery_month",discovery_month)
+    // console.log("Temp_pre_7",Temp_pre_7)
+    // console.log("Wind_pre_7",Wind_pre_7)
+    // console.log("Hum_pre_7",Hum_pre_7)
     
     
     fetch("/predict", {
