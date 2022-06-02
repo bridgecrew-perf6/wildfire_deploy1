@@ -1,4 +1,4 @@
-# wildfire_deploy1
+# Final_Project_Wildfires Deploy Repo
 This repository is associatied with the "Final_Project_Wildfires" repository for Team k.E.G.d.  
  - *https://github.com/goatgirl86/Final_Project_Wildfires.git*
 
